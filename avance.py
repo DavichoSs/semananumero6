@@ -47,4 +47,6 @@ def crear_archi(tot,tex):
 			print (i)
 		
 resultado=crear_archi(total,tex)
-		
+	
+print("hola mundo")
+print("manejar source tree es dificil")
